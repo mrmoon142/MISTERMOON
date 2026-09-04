@@ -1,0 +1,38 @@
+{
+  "id": "/",
+  "name": "MisterMoon — AI Vibe Coder & Systems Architect",
+  "short_name": "MisterMoon",
+  "description": "The official digital platform of Miracle Chibueze Dike (MisterMoon). AI engineering, web tools, high-speed downloader, and software ecosystem.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07080C",
+  "theme_color": "#D4AF37",
+  "orientation": "portrait-primary",
+  "categories": ["utilities", "productivity", "developer tools"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512-maskable.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
